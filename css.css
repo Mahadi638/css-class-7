@@ -1,5 +1,5 @@
 h1{color: rgb(0, 255, 42); font-size: 60ps; font-style: oblique;}
-body{background-image: url(nature.jpg);}
+body{background-color: darkgray;}
 p{color: blue;}
 #am{color: coral;}
 .jam{color: cornsilk;}
@@ -7,5 +7,6 @@ p{color: blue;}
     50px;margin-bottom: 50px; margin-left: 50px;padding: 20px;}
 #katal{background-color: hotpink;width: 150px; height: 200;}
 
+.box{background: darkslategray;color: floralwhite; height: 200px; width: 500px;overflow: scroll;}
 
-
+.boxs{background: darkslategray;color: floralwhite; height: 200px; width: 300px;overflow: scroll;position: absolute; left: 500px; top: 200px;right: 200px;}
